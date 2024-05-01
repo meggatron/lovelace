@@ -1,0 +1,34 @@
+{  
+"name": "Hello World",   
+"short_name": "Hello", 
+"lang": "en-US",     
+"start_url": "index.html", 
+"display": "standalone",  
+"background_color": "white",   
+"theme_color": "black" ,
+"icons": [{
+"src": "TNT-48-icon.png",
+"sizes": "48x48",
+"type": "image/png"
+  }, {
+"src": "TNT-512-icon.png",
+"sizes": "512x512",
+"type": "image/png"
+  }, {
+    "src": "apple-touch-icon.png",
+    "sizes": "180x180",
+    "type": "image/png"  
+  },
+          
+       {
+      "src": "maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }    
+          
+          
+         ] 
+}
+
+
